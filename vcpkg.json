@@ -1,0 +1,14 @@
+{
+  "name": "akenza-cpp-examples",
+  "version-string": "unversioned",
+  "port-version": 1,
+  "description": "A set of C++ examples for using the `akenza` APIs.",
+  "homepage": "https://github.com/akenza-io/akenza-cpp-examples",
+  "dependencies": [
+    "jansson",
+    "jwt-cpp",
+    "openssl",
+    "paho-mqttpp3",
+    "cxxopts"
+  ]
+}
